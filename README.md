@@ -6,3 +6,5 @@ In this project, we want to explore the audio and lyrics feature for different m
 
 For details about the project, please view the [notebook](https://github.com/yuweizhu1993/music_feature_analysis/blob/master/Group_14_project1_final_report.ipynb)
 We also developed a [presentation deck](https://github.com/yuweizhu1993/music_feature_analysis/blob/master/Group14_music_analysis_presentation.pdf) if you interested.
+
+Collaborator: [Honda Zhang](https://github.com/hzhang0920)
